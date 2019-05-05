@@ -1,0 +1,3 @@
+# Images Uploaded in Repository my-mean-webapp
+
+1. Angular_Tutorials_Groups.pgn
