@@ -12,7 +12,7 @@ It is a full-featured JavaScript framework, with the primary goal of simplificat
 
 
 
-Node JS VS. Angular JS
+## Node JS VS. Angular JS
 
 | Node.JS	| Angular JS | 
 | --- | --- | 
@@ -28,12 +28,12 @@ Node JS VS. Angular JS
 | Node.js will be useful in situations when something faster and more scalable is needed.	| Angular is useful in creating real time applications like instant messaging or chat apps.| 
 
 
-What Is Better Node JS Or Angular JS?
+## What Is Better Node JS Or Angular JS?
 Both Node.js and AngularJS platforms are targeted at building web applications using JavaScript. However, both of them are different in their architecture and working. Node.js mainly used to build server-side applications. AngularJS is suited for building single-page client-side web applications.
 
 These two frameworks are high performing, advanced and widely used worldwide. So one should select according to his/her project need.
 
-Conclusion:
+## Conclusion:
 - Node.js is a cross-platform runtime library and environment for running JavaScript applications outside the browser.
 - Node.js offers a rich library of various JavaScript modules which can simplify coding.
 - AngularJS is a structural framework for developing dynamic web apps.
@@ -41,4 +41,4 @@ Conclusion:
 - Node JS is Ideal for developing small size projects while Angular JS is a great option for long size projects.
 - Both Node.js and AngularJS platforms are targeted at building web applications using JavaScript. However, both of them are different in their architecture and working
 
-# END
+# D.M
