@@ -5,6 +5,8 @@ This repository is my learning experience of build a mean stack webapp
 ## Reference links
 - https://angular.io/guide/quickstart
 
+## 11 Compelling Reasons to Choose AngularJS As Your Next Web Development Project
+[See this](https://www.bacancytechnology.com/blog/reasons-to-choose-angularjs-as-your-web-development-project)
 
 ## Top 10 Open Source Projects among 200 Web Developement Open Source Projects
   1. [Windows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
