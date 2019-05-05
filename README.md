@@ -4,6 +4,18 @@ This repository is my learning experience of build a mean stack webapp
 
 
 
+# Top 10 Open Source Projects among 200 Web Developement Open Source Projects
+  1. [Windows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  2. [Dev.to website open source: A place where software developers write articles, take part in discussions, and build their professional profiles](https://github.com/thepracticaldev/dev.to?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  3.
+  4.
+  5.
+  6.
+  7.
+  8.
+  9.
+  10.
+
 # Learn Angular from Top 50 Articles for the Past Year (v.2019) [Jan~Dec 2018 & 10,000 Angular articles]
 Tutorials are divided into 22 relevant groups (see below).
 
